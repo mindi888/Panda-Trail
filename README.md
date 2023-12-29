@@ -9,6 +9,7 @@ To achieve this goal you must...
 P.S. This game will continue until you lose
 
 Controls:
+
 Press space to continue
 
 Press the up arrow to jump
