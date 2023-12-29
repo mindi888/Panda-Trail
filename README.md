@@ -1,4 +1,4 @@
-# Panda-Trail
+# Panda Trail
 
 This is a game I created over winter break with a lot of help from this YouTube video => https://www.youtube.com/watch?v=AY9MnQ4x3zk, but I put my own twist to it.
 
