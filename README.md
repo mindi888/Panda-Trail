@@ -13,7 +13,7 @@ P.S. This game will continue until you lose (～￣▽￣)～
 Controls:
 Press space to continue 💨
 Press the up arrow to jump ⬆️
-Hold down the down arrow to roll ⬇️
+Hold the down arrow to roll ⬇️
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ***** All the images were drawn by me! Please no hate, it was my first time trying pixel art and animation ಥ_ಥ *****
